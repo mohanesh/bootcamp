@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- metadata goes in head -->
+	<title>Thalapathy Vijay</title>
+
+	<!-- <style type="text/css"> 
+		selector{
+		property=value;
+		}
+		h1 {
+			color: purple;
+		<
+	</style>-->
+</head>
+<body>
+	<!-- content goes in body -->
+<h1>Thalapathy!!!</h1>
+<h2>Vijay</h2>
+<img width="800" src="https://wikibio.in/wp-content/uploads/2018/11/Vijay.jpg">
+<a href="https://en.wikipedia.org/wiki/Vijay_(actor)">Click here to see Thalapathy Vijay's Wikipedia</a>
+<a href="Page2.html">See Page 2</a>
+<p><strong>C. Joseph Vijay</strong> (born 22 June 1974[1]) is an Indian film actor and playback singer who works in Tamil cinema. He is one of the highest paid actors in the industry,[3] and is referred to by fans and media as <em>Thalapathy</em> (commander).</p>
+
+<p>Vijay was born on 22 June 1974[1] as Joseph Vijay in Madras (now Chennai). His father S. A. Chandrasekhar is a Tamil film director and his mother Shoba is a playback singer and carnatic vocalist. He had a sister Vidhya, who died when she was two years old. His sisters death affected Vijay greatly; according to his mother, Vijay, who was very talkative, naughty and hyperactive as a child, became silent after Vidhya's death.[10] Vidhya's story is depicted in the 2005 film Sukran, in which Vijay played an extended cameo</p>
+
+<h4>My Colour Lists</h4>
+<ol>
+	<li>Red</li>
+	<li>Blue</li>
+	<li>Green</li>
+	<ul>
+		<li>Parrot Green</li>
+		<li>Ramar Green</li>
+	</ul>
+</ol>
+<ul>
+	<li>Black</li>
+	<li>White</li>
+	<li>Orange</li>
+</ul>
+
+</body>
+</html>
