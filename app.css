@@ -9,33 +9,40 @@ h1 {
 	border: auto;
 	padding: auto;*/
 }
+
 h2 {
 	text-align: center;
 	text-decoration: underline;
 }
+
 li {
 	color: green;
 }
+
 #Ramar {
 	color: red;
 	background: yellow;
 }
+
 /*.demo {
 	text-decoration: line-through;
 }*/
 h4 {
 	color: orange;
 }
+
 h2 {
 	color: mediumvioletred;
 }
+
 /*
 p2 {
 	background: #FF69B4;
 }*/
-h1 + img {
+h1+img {
 	width: 500px;
 }
+
 p {
 	font-family: Futura;
 	font-size: 20px;
@@ -43,21 +50,24 @@ p {
 	font-weight: normal;
 	font-style: italic;
 }
+
 p1 {
 	font-family: kavivanar;
 	font-size: 20px;
 	line-height: 1.25;
 }
+
 p2 {
 	font-family: catamaran;
 	font-size: 18px;
 	line-height: 1.25;
 }
+
 /*img + h2 {
 	text-decoration: underline;
 	margin-right: 200px;
 }*/
 
 body {
-	background: #FFE4E1;
+	background: white;
 }
